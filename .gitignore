@@ -1,0 +1,8 @@
+data/*
+!data/README.md
+
+dist
+
+.env
+
+node_modules/
